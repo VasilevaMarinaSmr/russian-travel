@@ -1,0 +1,17 @@
+.cover {
+  box-sizing: border-box;
+  margin: 92px auto 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin-top: 88px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .cover {
+    margin-top: 66x;
+  }
+}

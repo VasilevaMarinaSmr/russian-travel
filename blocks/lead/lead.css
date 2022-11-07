@@ -5,12 +5,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  box-sizing: border-box;
   padding-top: 56px;
-
-
 }
 
-@media (max-width: 1024px){
+@media screen and (max-width: 1024px){
   .lead {
     max-width: 928px;
     padding-top: 48px;
@@ -20,11 +19,5 @@
 @media screen and (max-width: 768px) {
   .lead {
     max-width: 768px;
-  }
-}
-
-@media all and (max-width: 375px) {
-  .lead {
-    max-width: 100%;
   }
 }
