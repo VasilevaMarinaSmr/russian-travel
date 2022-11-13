@@ -9,3 +9,10 @@
   justify-content: end;
   padding-bottom: 6px;
 }
+
+
+@media all and (max-width: 500px) {
+  .header__lang-link {
+    padding-bottom: 8px;
+  }
+}

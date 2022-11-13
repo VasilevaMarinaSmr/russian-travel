@@ -1,8 +1,10 @@
 .intro__list{
   margin: 0;
   padding: 0;
+  max-width: 690px;
   padding-top: 33px;
-  list-style: none;
+  list-style-type: none;
+  text-align: left;
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -12,12 +14,12 @@
 
 @media screen and (max-width: 768px) {
   .intro__list {
-    padding-left: 24px;
+    padding-left: 0px;
   }
 }
 
 @media screen and (max-width: 720px) {
   .intro__list {
-      padding-left: 16px;
+      padding-left: 0px;
   }
 }
