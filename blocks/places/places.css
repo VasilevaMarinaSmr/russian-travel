@@ -10,21 +10,21 @@
 
 @media screen and (max-width: 1200px) {
   .places {
-      max-width: 928px;
+    max-width: 928px;
   }
 }
 
 @media screen and (max-width: 1000px){
   .places{
-      max-width: 720;
-      padding-top: 88px;
+    max-width: 720;
+    padding-top: 88px;
 
   }
 }
 
 @media all and (max-width: 600px){
   .places{
-      padding-top: 64px;
-      max-width: 320px;
+    padding-top: 64px;
+    max-width: 320px;
   }
 }

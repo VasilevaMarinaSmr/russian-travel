@@ -9,16 +9,18 @@
 
 @media screen and (max-width: 1000px) {
   .place__title {
-      font-size: 42px;
-      line-height: 46px;
+    font-size: 42px;
+    line-height: 46px;
+    padding-right: 10px;
   }
 }
 
 @media all and (max-width: 600px) {
   .place__title {
-      font-size: 32px;
-      line-height: 35px;
-      padding: 0 16px;
+    font-size: 32px;
+    line-height: 35px;
+    padding-right: 0px;
+    padding: 0 16px;
   }
 }
 

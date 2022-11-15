@@ -9,8 +9,8 @@
 
 @media all and (max-width: 600px) {
   .footer__list {
-      flex-direction: column;
-      margin-bottom: 48px;
-      gap: 32px;
+    flex-direction: column;
+    margin-bottom: 48px;
+    gap: 32px;
   }
 }
