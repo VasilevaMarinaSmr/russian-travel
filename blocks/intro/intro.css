@@ -20,7 +20,8 @@
     padding: 0;
     padding-top: 88px;
     max-width: 768px;
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 
